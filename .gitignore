@@ -33,7 +33,7 @@ migrate_working_dir/
 .pub/
 /build/
 
-ios-test/
+
 
 # Symbolication related
 app.*.symbols
